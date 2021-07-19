@@ -1,0 +1,12 @@
+{
+  "name": "html-templates",
+  "version": "1.0.0",
+  "description": "Starter templates for html, css and JS",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "LuKa <kaj.lund@gmail.com>",
+  "license": "ISC"
+}
